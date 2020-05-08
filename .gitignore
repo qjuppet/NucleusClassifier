@@ -1,0 +1,9 @@
+**/bin/
+**/target/
+**/.project
+**/.classpath
+**/.settings/
+**/.externalToolBuilders/
+**/.ipynb_checkpoints/
+
+NC ImageJ Plugin/models/
