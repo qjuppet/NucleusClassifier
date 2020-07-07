@@ -1,9 +1,9 @@
-# Nuclei Classifier
+# Single Cell Classifier
 
-Nuclei Classifier is an ImageJ/Fiji plugin that aims to classify nuclei based on features related to nuclei and their neighbours.
+Single Cell Classifier (SCC) is an ImageJ/Fiji plugin that aims to classify cells based on features related to their nuclei and their neighbors.
 The detection is done with the [StarDist plugin](https://github.com/mpicbg-csbd/stardist).
 
-![Example of Nuclei Classifier](images/example.png "Example of Nuclei Classifier")
+![Example of Single Cell Classifier](images/example.png "Example of Single Cell Classifier")
 
 This example show the classification (middle) of an H&E image (left) and the fluorescence control image (right).
 
